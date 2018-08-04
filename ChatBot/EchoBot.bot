@@ -1,0 +1,15 @@
+{
+    "name": "EchoBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "65478170-982f-11e8-9c12-53ccda8629a1",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44307/api/messages",
+            "name": "https://localhost:44307/api/messages"
+        }
+    ]
+}
